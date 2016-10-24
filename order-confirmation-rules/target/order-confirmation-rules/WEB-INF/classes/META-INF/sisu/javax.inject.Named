@@ -1,0 +1,7 @@
+org.camunda.bpm.demo.orderconfirmation.bean.DroolsRulebaseBean
+org.camunda.bpm.demo.orderconfirmation.bean.RuleEntryDAO
+org.camunda.bpm.demo.orderconfirmation.bean.NewOrderController
+org.camunda.bpm.demo.orderconfirmation.bean.RuleEntryEdit
+org.camunda.bpm.demo.orderconfirmation.bean.OrderBean
+org.camunda.bpm.demo.orderconfirmation.bean.TaskList
+org.camunda.bpm.demo.orderconfirmation.bean.OrderList
